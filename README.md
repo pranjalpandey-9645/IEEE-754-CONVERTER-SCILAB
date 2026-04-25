@@ -1,4 +1,4 @@
-# IEEE-754-CONVERTER-SCILAB
+# IEEE-754-FLOATING-POINT-CONVERTER (SCILAB)
 This project is a Scilab-based implementation of the **IEEE 754 Standard for Floating-Point Arithmetic**. It focuses on converting decimal numbers into their 32-bit single-precision binary representation, a fundamental concept in **Computer Organization and Architecture (COA)**.
 
 ## 💻 Overview
