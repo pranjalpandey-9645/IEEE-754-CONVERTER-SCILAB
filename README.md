@@ -14,3 +14,9 @@ In the modern computing, representing real numbers (fractions) requires a standa
 * **Normalization:** Automatically shifts the binary point and calculates the exponent.
 * **Bias Handling:** Implements the $+127$ bias for single precision.
 * **Edge Case Support:** Identifies positive/negative signs and handles bit padding.
+
+# 🖼️ Screenshot of the output
+
+</br>
+
+![Project Screenshot](Assets/Screenshot%202026-04-26%20010330.png)
