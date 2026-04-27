@@ -15,8 +15,14 @@ In the modern computing, representing real numbers (fractions) requires a standa
 * **Bias Handling:** Implements the $+127$ bias for single precision.
 * **Edge Case Support:** Identifies positive/negative signs and handles bit padding.
 
-# 🖼️ Screenshot of the output
+# 🎴 Screenshot of the output
 
 </br>
 
 ![Project Screenshot](Assets/Screenshot%202026-04-26%20010330.png)
+
+## 🛠️ How to Run
+1. **Install Scilab:** Download from [scilab.org](https://www.scilab.org/).
+2. **Clone the Repo:**
+   ```bash
+   git clone [https://github.com/pranjalpandey-9645/matrix-coa-simulator.git](https://github.com/pranjalpandey-9645/matrix-coa-simulator.git)
