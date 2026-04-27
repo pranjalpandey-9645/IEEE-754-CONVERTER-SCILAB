@@ -25,4 +25,4 @@ In the modern computing, representing real numbers (fractions) requires a standa
 1. **Install Scilab:** Download from [scilab.org](https://www.scilab.org/).
 2. **Clone the Repo:**
    ```bash
-   git clone [https://github.com/pranjalpandey-9645/matrix-coa-simulator.git](https://github.com/pranjalpandey-9645/matrix-coa-simulator.git)
+   git clone [https://github.com/pranjalpandey-9645/ieee-754-float-converter.git](https://github.com/pranjalpandey-9645/ieee-754-float-converter.git)
